@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS280-LS2-Example01", "CS28
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS280-LS2-Example02", "CS280-LS2-Example02\CS280-LS2-Example02.csproj", "{3D70088D-32B5-4060-9121-0C4B598E2738}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS280-LS2-Example03", "CS280-LS2-Example03\CS280-LS2-Example03.csproj", "{E66F971E-0C03-4144-99C3-D21EF4C74201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS280-LS2-Example04", "CS280-LS2-Example04\CS280-LS2-Example04.csproj", "{C139A69F-7282-4D9B-B005-BAF3B50416EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{3D70088D-32B5-4060-9121-0C4B598E2738}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D70088D-32B5-4060-9121-0C4B598E2738}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D70088D-32B5-4060-9121-0C4B598E2738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66F971E-0C03-4144-99C3-D21EF4C74201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66F971E-0C03-4144-99C3-D21EF4C74201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66F971E-0C03-4144-99C3-D21EF4C74201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66F971E-0C03-4144-99C3-D21EF4C74201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C139A69F-7282-4D9B-B005-BAF3B50416EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C139A69F-7282-4D9B-B005-BAF3B50416EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C139A69F-7282-4D9B-B005-BAF3B50416EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C139A69F-7282-4D9B-B005-BAF3B50416EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

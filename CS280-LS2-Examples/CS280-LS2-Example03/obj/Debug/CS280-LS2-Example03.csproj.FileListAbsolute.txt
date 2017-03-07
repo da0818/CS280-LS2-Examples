@@ -1,1 +1,2 @@
 D:\CS280-LS2-Examples\CS280-LS2-Examples\CS280-LS2-Example03\bin\Debug\CS280-LS2-Example03.exe.config
+D:\CS280-LS2-Examples\CS280-LS2-Examples\CS280-LS2-Example03\obj\Debug\CS280-LS2-Example03.csprojResolveAssemblyReference.cache
