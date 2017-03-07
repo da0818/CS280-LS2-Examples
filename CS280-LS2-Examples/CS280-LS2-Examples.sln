@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS280-LS2-Example01", "CS280-LS2-Example01\CS280-LS2-Example01.csproj", "{CA382AB9-5FE4-4DE7-91D0-45BD2FCE16FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS280-LS2-Example02", "CS280-LS2-Example02\CS280-LS2-Example02.csproj", "{3D70088D-32B5-4060-9121-0C4B598E2738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA382AB9-5FE4-4DE7-91D0-45BD2FCE16FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA382AB9-5FE4-4DE7-91D0-45BD2FCE16FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA382AB9-5FE4-4DE7-91D0-45BD2FCE16FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA382AB9-5FE4-4DE7-91D0-45BD2FCE16FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D70088D-32B5-4060-9121-0C4B598E2738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D70088D-32B5-4060-9121-0C4B598E2738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D70088D-32B5-4060-9121-0C4B598E2738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D70088D-32B5-4060-9121-0C4B598E2738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
