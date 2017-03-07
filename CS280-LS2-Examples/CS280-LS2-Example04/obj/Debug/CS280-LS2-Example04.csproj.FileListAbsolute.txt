@@ -3,3 +3,4 @@ D:\CS280-LS2-Examples\CS280-LS2-Examples\CS280-LS2-Example04\bin\Debug\CS280-LS2
 D:\CS280-LS2-Examples\CS280-LS2-Examples\CS280-LS2-Example04\bin\Debug\CS280-LS2-Example04.pdb
 D:\CS280-LS2-Examples\CS280-LS2-Examples\CS280-LS2-Example04\obj\Debug\CS280-LS2-Example04.exe
 D:\CS280-LS2-Examples\CS280-LS2-Examples\CS280-LS2-Example04\obj\Debug\CS280-LS2-Example04.pdb
+D:\CS280-LS2-Examples\CS280-LS2-Examples\CS280-LS2-Example04\obj\Debug\CS280-LS2-Example04.csprojResolveAssemblyReference.cache
